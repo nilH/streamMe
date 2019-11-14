@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">fodmap</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">login</string>
+    <string name="setting">setting</string>
+    <string name="title_activity_login">Login in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="acton_sign_up">Sign up</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_email">Not a valid email address</string>
+    <string name="collision_email">email address has been used</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="wrong_password">wrong passwword</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="empty_input">field is empty</string>
+    <string name="register_confirm">confirming email has been send to you</string>
+    <string name="edit">edit</string>
+    <string name="good">Good</string>
+    <string name="ok">Ok</string>
+    <string name="bad">Bad</string>
+    <string name="scan">Scan</string>
+    <string name="myfood">Myfood</string>
+    <string name="ingredientlist">Ingredients</string>
+</resources>

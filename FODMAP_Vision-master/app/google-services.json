@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546349881315",
+    "firebase_url": "https://fodmap-vision-df77e.firebaseio.com",
+    "project_id": "fodmap-vision-df77e",
+    "storage_bucket": "fodmap-vision-df77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546349881315:android:fb75928b5ca296e98b72d6",
+        "android_client_info": {
+          "package_name": "com.example.fodmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546349881315-fsje44l67f6a89lhcr84tudbm6sqfuiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJT7RG14VzP0otVUitN4SlIAxWVXsPYi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546349881315-fsje44l67f6a89lhcr84tudbm6sqfuiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
